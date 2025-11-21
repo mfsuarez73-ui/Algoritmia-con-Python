@@ -1,4 +1,4 @@
-#Algoritmia-py
+##Algoritmia-py
 
 
 Proyecto desarrollado con la única finalidad de mejorar mi algoritmia, dejando de lado las mejores practicas "pytonicas",
